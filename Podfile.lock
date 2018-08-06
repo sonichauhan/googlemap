@@ -1,0 +1,33 @@
+PODS:
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - GooglePlacesSearchController (0.2.0)
+  - MJSnackBar (1.0.2)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - GooglePlacesSearchController
+  - MJSnackBar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GoogleMaps
+    - GooglePlaces
+    - GooglePlacesSearchController
+    - MJSnackBar
+
+SPEC CHECKSUMS:
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  GooglePlacesSearchController: 8cd39908bb40660ea375653f4757133e6d13a258
+  MJSnackBar: ed280d1d20692abbabe6836f8004590dd9c9ab3e
+
+PODFILE CHECKSUM: 51acf740c60a9581111c67f33679517adb7ec4ff
+
+COCOAPODS: 1.5.3
